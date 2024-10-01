@@ -1,0 +1,17 @@
+  #circle-of-fifths {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    border: 1px solid #000;
+    border-radius: 50%;
+  }
+  
+  .note {
+    position: absolute;
+    width: 30px;
+    height: auto;
+    text-align: center;
+    line-height: 30px;
+    background-color: #FFF;
+    border: 1px solid #000;
+  }
